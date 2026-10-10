@@ -1,0 +1,36 @@
+{
+  "ownerNumber": [
+    "6285821731223@s.whatsapp.net",
+    "6289527818031@s.whatsapp.net"
+  ],
+  "ownerName": "Pycarroo The Wolf",
+  "instagram": "https://instagram.com/pycarroo",
+  "gcwa": "https://chat.whatsapp.com/Lx0Nq8AyAVb16D9tUuEVu6",
+  "botName": "Pycarroo The Wolf",
+  "footer": "2026 © Pycarroo The Wolf",
+  "sessionName": "session",
+  "fotoDonasi": "./qri.jpg",
+  "pathimg": "./Pycarroo.jpg",
+  "BotKey": "b33ed1dfb4d34804e6d04188e13765bf-12b974d2-5dcf-4d33-bf23-26dcc8982c5a",
+  "OpenAIKey": "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",
+  "audio_di_bagian_menu": "./menu.mp3",
+  "auto_ai_japri": false,
+  "auto_ai_grup": false,
+  "auto_welcomeMsg": true,
+  "auto_leaveMsg": true,
+  "antiViewOnce": true,
+  "grupOnly": false,
+  "japriOnly": false,
+  "antiDelete": true,
+  "autobio": false,
+  "anticall": true,
+  "autorespond": false,
+  "autoblok212": true,
+  "autoread": true,
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+    "prem": 1000,
+    "user": 5
+  }
+}
